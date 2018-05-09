@@ -1,0 +1,72 @@
+[2018-05-08 19:54:45] [INFO] 加载驱动,启动的是chromeDriver
+[2018-05-08 19:54:50] [INFO] 打开网址
+[2018-05-08 19:54:50] [INFO] 开始查找元素：By.name: username
+[2018-05-08 19:54:50] [INFO] 找到了元素 [By.name: username]
+[2018-05-08 19:54:50] [INFO] 找到元素 name: username
+[2018-05-08 19:54:50] [INFO] 找到元素 name: username
+[2018-05-08 19:54:50] [INFO] 清空元素上的内容
+[2018-05-08 19:54:50] [INFO] 在文本框中输入内容admin
+[2018-05-08 19:54:50] [INFO] 开始查找元素：By.name: password
+[2018-05-08 19:54:50] [INFO] 找到了元素 [By.name: password]
+[2018-05-08 19:54:50] [INFO] 找到元素 name: password
+[2018-05-08 19:54:50] [INFO] 找到元素 name: password
+[2018-05-08 19:54:50] [INFO] 清空元素上的内容
+[2018-05-08 19:54:51] [INFO] 在文本框中输入内容admin
+[2018-05-08 19:54:51] [INFO] 开始查找元素：By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 19:54:51] [INFO] 找到了元素 [By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-08 19:54:51] [INFO] 找到元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 19:54:51] [INFO] 对元素By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-08 19:54:51] [INFO] 开始查找元素：By.linkText: 管理中心
+[2018-05-08 19:55:01] [INFO] 找到了元素 [By.linkText: 管理中心]
+[2018-05-08 19:55:01] [INFO] 找到元素 link text: 管理中心
+[2018-05-08 19:55:01] [INFO] 对元素By.linkText: 管理中心做点击操作
+[2018-05-08 19:55:01] [INFO] 跳转到新的页面
+[2018-05-08 19:55:01] [INFO] 开始查找元素：By.linkText: 论坛
+[2018-05-08 19:55:26] [INFO] 找到了元素 [By.linkText: 论坛]
+[2018-05-08 19:55:26] [INFO] 找到元素 link text: 论坛
+[2018-05-08 19:55:26] [INFO] 对元素By.linkText: 论坛做点击操作
+[2018-05-08 19:55:26] [INFO] 进入iframe
+[2018-05-08 19:55:26] [INFO] 开始查找元素：By.linkText: 添加新版块
+[2018-05-08 19:55:36] [INFO] 找到了元素 [By.linkText: 添加新版块]
+[2018-05-08 19:55:36] [INFO] 找到元素 link text: 添加新版块
+[2018-05-08 19:55:36] [INFO] 对元素By.linkText: 添加新版块做点击操作
+[2018-05-08 19:55:36] [INFO] 开始查找元素：By.id: submit_editsubmit
+[2018-05-08 19:55:37] [INFO] 找到了元素 [By.id: submit_editsubmit]
+[2018-05-08 19:55:37] [INFO] 找到元素 id: submit_editsubmit
+[2018-05-08 19:55:37] [INFO] 对元素By.id: submit_editsubmit做点击操作
+[2018-05-08 19:55:37] [INFO] 返回主文档
+[2018-05-08 19:55:37] [INFO] 开始查找元素：By.linkText: 站点首页
+[2018-05-08 19:55:37] [INFO] 找到了元素 [By.linkText: 站点首页]
+[2018-05-08 19:55:37] [INFO] 找到元素 link text: 站点首页
+[2018-05-08 19:55:37] [INFO] 对元素By.linkText: 站点首页做点击操作
+[2018-05-08 19:55:37] [INFO] 跳转到新的页面
+[2018-05-08 19:55:37] [INFO] 开始查找元素：By.linkText: 退出
+[2018-05-08 19:55:40] [INFO] 找到了元素 [By.linkText: 退出]
+[2018-05-08 19:55:40] [INFO] 找到元素 link text: 退出
+[2018-05-08 19:55:41] [INFO] 对元素By.linkText: 退出做点击操作
+[2018-05-08 19:55:41] [INFO] 开始查找元素：By.name: username
+[2018-05-08 19:55:52] [INFO] 找到了元素 [By.name: username]
+[2018-05-08 19:55:52] [INFO] 找到元素 name: username
+[2018-05-08 19:55:52] [INFO] 找到元素 name: username
+[2018-05-08 19:55:52] [INFO] 清空元素上的内容
+[2018-05-08 19:55:52] [INFO] 在文本框中输入内容test
+[2018-05-08 19:55:52] [INFO] 开始查找元素：By.name: password
+[2018-05-08 19:55:52] [INFO] 找到了元素 [By.name: password]
+[2018-05-08 19:55:52] [INFO] 找到元素 name: password
+[2018-05-08 19:55:52] [INFO] 找到元素 name: password
+[2018-05-08 19:55:52] [INFO] 清空元素上的内容
+[2018-05-08 19:55:52] [INFO] 在文本框中输入内容123456
+[2018-05-08 19:55:52] [INFO] 开始查找元素：By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 19:55:52] [INFO] 找到了元素 [By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-08 19:55:52] [INFO] 找到元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-08 19:55:52] [INFO] 对元素By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-08 19:55:52] [INFO] 开始查找元素：By.linkText: 新版块名称
+[2018-05-08 19:55:52] [INFO] 找到了元素 [By.linkText: 新版块名称]
+[2018-05-08 19:55:52] [INFO] 找到元素 link text: 新版块名称
+[2018-05-08 19:55:54] [INFO] 对元素By.linkText: 新版块名称做点击操作
+[2018-05-08 19:55:54] [INFO] 开始查找元素：By.xpath: //*[@id="newspecial"]/img
+[2018-05-08 19:55:54] [INFO] 找到了元素 [By.xpath: //*[@id="newspecial"]/img]
+[2018-05-08 19:55:54] [INFO] 找到元素 xpath: //*[@id="newspecial"]/img
+[2018-05-08 19:55:56] [INFO] 对元素By.xpath: //*[@id="newspecial"]/img做点击操作
+[2018-05-08 19:55:56] [INFO] 开始查找元素：By.id: subject
+[2018-05-08 19:56:06] [ERROR] 超时!! 10 秒之后还没找到元素 [By.id: subject]
