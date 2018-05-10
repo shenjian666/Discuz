@@ -91,8 +91,8 @@ public class HelperLoginPage {
 
     public static void newPagePwd(SeleniumUtil seleniumUtil) throws InterruptedException {
         seleniumUtil.newPage();
-       // newPassword(seleniumUtil,"admin");
-       // adminBtn(seleniumUtil);
+         newPassword(seleniumUtil,"admin");
+         adminBtn(seleniumUtil);
          HelperLinkTextPage.forum(seleniumUtil);
 
         HelperReportPage.addNewBlock(seleniumUtil);

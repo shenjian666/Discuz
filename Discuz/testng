@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ChinaWhiteTest">
+    <parameter name="Browser" value="chrome" />
+    <test name="User">
+
+        <classes>
+
+            <class name="testcase.Lt_login"></class>
+        </classes>
+    </test>
+</suite>
