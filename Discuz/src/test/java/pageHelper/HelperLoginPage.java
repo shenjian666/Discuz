@@ -27,10 +27,10 @@ public class HelperLoginPage {
 
     }
     //用户名+密码 直接登录
-    public static void login(SeleniumUtil seleniumUtil,String name,String pwd) throws InterruptedException {
+    public static void login(SeleniumUtil seleniumUtil,String name,String pwd){
         inputUsername(seleniumUtil,name);
         inputPassword(seleniumUtil,pwd);
-        Thread.sleep(3000);
+      
         loginBtn(seleniumUtil);
     }
 
