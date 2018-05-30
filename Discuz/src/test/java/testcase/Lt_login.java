@@ -1,4 +1,4 @@
-package testcase;
+﻿package testcase;
 
 import org.testng.annotations.Test;
 import pageHelper.HelperLinkTextPage;
@@ -16,13 +16,6 @@ public class Lt_login extends BasicTestCase{
      Thread.sleep(3000);
     HelperLoginPage.ft(seleniumUtil,"Hello World","大家好,哈哈哈哈哈哈哈哈");
 
-    HelperLinkTextPage.back(seleniumUtil);
-
-    HelperLoginPage.login(seleniumUtil,"admin","admin");
-
-    HelperLinkTextPage.titleClick(seleniumUtil);
-
-    HelperLoginPage.firstContent(seleniumUtil);
 
     HelperReplyPage.reply(seleniumUtil,"哇，你这个逗比");
 
