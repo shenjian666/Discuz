@@ -1,4 +1,4 @@
-package util;
+﻿package util;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -206,7 +206,10 @@ public class SeleniumUtil {
         }
         logger.info("跳转到新的页面");
     }
-
+     public void refresh(){
+    driver.navigate().refresh();
+        logger.info("刷新页面");
+    }
 }
 
 
