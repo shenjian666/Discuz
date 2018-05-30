@@ -18,7 +18,6 @@ public class BasicTestCase {
     @BeforeMethod
     public void setUp(){
         LogConfiguration.initLog();
-
         seleniumUtil = new SeleniumUtil();
         driver = seleniumUtil.getDriver();
         seleniumUtil.url("http://127.0.0.1:8086/upload/forum.php");

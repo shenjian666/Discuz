@@ -1,4 +1,4 @@
-﻿package pageHelper;
+package pageHelper;
 
 import page.Page_Login;
 import page.Page_LinkText;
@@ -26,13 +26,14 @@ public class HelperLoginPage {
         seleniumUtil.click(Page_Login.LOGIN_LINK_LOGINBTN);
 
     }
-     
+
+
     //用户名+密码 直接登录
     public static void login(SeleniumUtil seleniumUtil,String name,String pwd)  {
         inputUsername(seleniumUtil,name);
         inputPassword(seleniumUtil,pwd);
         loginBtn(seleniumUtil);
-        
+
     }
 
 

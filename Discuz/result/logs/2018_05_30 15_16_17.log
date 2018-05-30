@@ -1,0 +1,28 @@
+[2018-05-30 15:16:35] [INFO] 加载驱动,启动的是chromeDriver
+[2018-05-30 15:16:45] [INFO] 打开网址
+[2018-05-30 15:16:45] [INFO] 开始查找元素：By.name: username
+[2018-05-30 15:16:46] [INFO] 找到了元素 [By.name: username]
+[2018-05-30 15:16:46] [INFO] 找到元素 name: username
+[2018-05-30 15:16:46] [INFO] 找到元素 name: username
+[2018-05-30 15:16:46] [INFO] 清空元素上的内容
+[2018-05-30 15:16:47] [INFO] 在文本框中输入内容test
+[2018-05-30 15:16:47] [INFO] 开始查找元素：By.name: password
+[2018-05-30 15:16:47] [INFO] 找到了元素 [By.name: password]
+[2018-05-30 15:16:47] [INFO] 找到元素 name: password
+[2018-05-30 15:16:47] [INFO] 找到元素 name: password
+[2018-05-30 15:16:47] [INFO] 清空元素上的内容
+[2018-05-30 15:16:47] [INFO] 在文本框中输入内容123456
+[2018-05-30 15:16:47] [INFO] 开始查找元素：By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-30 15:16:47] [INFO] 找到了元素 [By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-30 15:16:47] [INFO] 找到元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-30 15:16:47] [INFO] 对元素By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button做点击操作
+[2018-05-30 15:16:49] [INFO] 刷新页面
+[2018-05-30 15:16:49] [INFO] 开始查找元素：By.linkText: 默认版块
+[2018-05-30 15:16:49] [INFO] 找到了元素 [By.linkText: 默认版块]
+[2018-05-30 15:16:49] [INFO] 找到元素 link text: 默认版块
+[2018-05-30 15:16:52] [INFO] 对元素By.linkText: 默认版块做点击操作
+[2018-05-30 15:16:52] [INFO] 开始查找元素：By.xpath: //*[@id="newspecial"]/img
+[2018-05-30 15:16:52] [INFO] 找到了元素 [By.xpath: //*[@id="newspecial"]/img]
+[2018-05-30 15:16:52] [INFO] 找到元素 xpath: //*[@id="newspecial"]/img
+[2018-05-30 15:16:54] [INFO] 对元素By.xpath: //*[@id="newspecial"]/img做点击操作
+[2018-05-30 15:16:54] [INFO] 开始查找元素：By.id: subject
